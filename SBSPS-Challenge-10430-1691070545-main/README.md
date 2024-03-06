@@ -1,4 +1,4 @@
-# SBSPS-Challenge-10430-1691070545
+Unlocking Placement Success
 Identifying Patterns and Trends in Campus Placement Data using Machine Learning:
 
 Campus placement data comprises information about students, their academic performance, skills, internships, 
